@@ -1,2 +1,2 @@
-# DMM WEBCAMPコンテンツ【Railsを学ぼう】
-- DMM WEBCAMPコンテンツ【Railsを学ぼう】の項目です
+# DMM WEBCAMPコンテンツ【Rubyを学ぼう】
+DMM WEBCAMPの学習コンテンツRubyを学ぼうのrubyです。
